@@ -1,0 +1,7 @@
+{
+  "name": "newline-graphql-server",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
